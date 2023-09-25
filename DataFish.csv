@@ -1,0 +1,21 @@
+Metric;Unit;Definition
+Year;year;year of sampling
+Lake;/;Lake sampled
+Altitude_m;meter;Altitude of the lake
+Profmax_m;meter;Maximum depth of the lake
+Organism;/;Species
+Indiv_name;/;Name of the individual
+Size_mm;milimeter;Size of the individual
+Weight_g;gram;Weight of the individual
+Area_m2;m²;Area of the lake
+KnSpecies;/;Relative coeficient condition factor
+Fulton;/;Fulton's condition factor
+Litto_Tot_Density;individuals per m² ;Density of littoral invertebrates
+Deep_Tot_Density;individuals per m² ;Density of deep benthic invertebrates
+CPUE_Salmo;individual m-2 h-1;Catch per unit of effort of salmonid
+FF_Pres;0 (absence) or 1(presence);Presence or absence fo forage fish 
+TC;/;trough coefficient 
+WinterTemp;°C;Mean annual epilimnion temperatures recorded for the 30 consecutive coldest days
+SummerTemp;°C;Mean annual epilimnion temperatures recorded for the 30 consecutive warmest days
+IceDuration;days;Ice period duration
+;;
